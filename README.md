@@ -9,3 +9,9 @@ Instructions:
 NOTE: the interior of the connector is not just a straight hole. There is internal geometry (see below). It has to be done like this or the CRT will either pull out of the socket, or the terminals will pull out of the CRT.
 
 ![Cutaway Image](https://github.com/bbenchoff/2BP1-CRT/blob/main/Cutaway.PNG)
+
+![Cutaway Image](https://github.com/bbenchoff/2BP1-CRT/blob/main/1.jpg)
+
+![Cutaway Image](https://github.com/bbenchoff/2BP1-CRT/blob/main/2.jpg)
+
+![Cutaway Image](https://github.com/bbenchoff/2BP1-CRT/blob/main/3.jpg)
