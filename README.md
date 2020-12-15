@@ -10,8 +10,16 @@ NOTE: the interior of the connector is not just a straight hole. There is intern
 
 ![Cutaway Image](https://github.com/bbenchoff/2BP1-CRT/blob/main/Cutaway.PNG)
 
+<<<<<<< Updated upstream
 ![Cutaway Image](https://github.com/bbenchoff/2BP1-CRT/blob/main/1.jpg)
 
 ![Cutaway Image](https://github.com/bbenchoff/2BP1-CRT/blob/main/2.jpg)
 
 ![Cutaway Image](https://github.com/bbenchoff/2BP1-CRT/blob/main/3.jpg)
+=======
+![Image1](https://github.com/bbenchoff/2BP1-CRT/blob/main/1.jpg)
+
+![Image2](https://github.com/bbenchoff/2BP1-CRT/blob/main/2.jpg)
+
+![Image3](https://github.com/bbenchoff/2BP1-CRT/blob/main/3.jpg)
+>>>>>>> Stashed changes
